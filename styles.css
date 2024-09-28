@@ -1,3 +1,22 @@
 body{
-    /*background: rgb(48, 48, 48); */
+    background: rgba(48, 48, 48, 0); 
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: black;
+    padding : 0px;
+    margin:0px;
+    overflow: hidden;
+    display:flex;
+    justify-content: space-around;
+}
+
+.blockElement {
+    display:inline-block;
+    margin:1vh;
+    
+}
+
+.navbar .blockElement:hover{
+    background-color: rgb(30, 30, 30);
 }
