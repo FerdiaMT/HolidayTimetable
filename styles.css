@@ -9,11 +9,35 @@ body{
     overflow: hidden;
     display:flex;
     justify-content: space-around;
+    
+}
+.homebar ul{
+    list-style-type:none;
+    background-color: black;
+    margin:0px;
+    padding:0px;
+    overflow: hidden; 
+}
+
+.navContainer{
+    margin-left : -8px;
+    padding:0;
+    position:fixed;
+    bottom:0;
+    width : 100%;
+}
+
+.homeContainer{
+    margin-left : -8px;
+    padding:0;
+    position:fixed;
+    top:0;
+    width : 100%;
 }
 
 .blockElement {
-    display:inline-block;
-    margin:1vh;
+    display:block;
+    margin-bottom :  1vh;
     
 }
 
