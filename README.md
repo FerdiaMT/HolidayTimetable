@@ -1,2 +1,2 @@
 # HolidayTimetable
-https://ferdiamt.github.io/HolidayTimetable/
+https://ferdiamt.github.io/Timetable/
